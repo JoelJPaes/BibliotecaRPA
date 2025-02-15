@@ -48,3 +48,4 @@ def escolher_opcao():
 
 # Chama o menu personalizado
 escolher_opcao()
+#o projeto que eu estava buscando fazer
